@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Java-Spring Backend**
 
-- 💬 Ask me about **DSA, Java,Spring, Spring-Microservices**
+- 💬 Ask me about **DSA, C++, Java, System Design, Spring, Microservices, Databases**
 
 - 📫 How to reach me **rohan.jha0107@gmail.com**
 
