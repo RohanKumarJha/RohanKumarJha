@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rohankumarjha&label=Profile%20views&color=0e75b6&style=flat" alt="rohankumarjha" /> </p>
 
-- 🌱 I’m currently learning **Java-Spring Backend**
+- 🌱 I’m currently learning **Java-Spring FullStack Developer**
 
 - 💬 Ask me about **C++, Java, DSA, System Design, Spring, Microservices, Databases.**
 
