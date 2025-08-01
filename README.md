@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Java-Spring FullStack Developer**
 
-- 💬 Ask me about **C++, Java, DSA, System Design, Spring, Microservices, Databases.**
+- 💬 Ask me about **Java, C++, DSA, System Design, Spring, Microservices, Databases.**
 
 - 📫 How to reach me **rohan.jha0107@gmail.com**
 
